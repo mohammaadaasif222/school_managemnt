@@ -1,0 +1,282 @@
+[
+    {
+        "name": "iPhone 11 Pro",
+        "price": 899,
+        "description": "The latest iPhone featuring new camera technology",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "pv0cnumzmrjbomh",
+                "url": "https://res.cloudinary.com/sabah-siddiqui/image/upload/v1590587241/pv0cnumzmrjbomh.jpg"
+            }
+        ],
+        "category": "electronics",
+        "seller": "Apple",
+        "stock": 10,
+        "numOfReviews": 2,
+        "reviews": [
+            {
+                "name": "John Doe",
+                "ratings": 4,
+                "comment": "The camera is amazing!"
+            },
+            {
+                "name": "Jane Doe",
+                "ratings": 4.5,
+                "comment": "The battery life is great!"
+            }
+        ]
+    },
+    {
+        "name": "Vintage Desk",
+        "price": 149,
+        "description": "A beautiful vintage desk made from solid oak",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "zfwim1hg2vzvjfh",
+                "url": "https://res.cloudinary.com/sabah-siddiqui/image/upload/v1590587241/zfwim1hg2vzvjfh.jpg"
+            }
+        ],
+        "category": "furniture",
+        "seller": "IKEA",
+        "stock": 5,
+        "numOfReviews": 2,
+        "reviews": [
+            {
+                "name": "John Doe",
+                "ratings": 5,
+                "comment": "Gorgeous piece of furniture!"
+            },
+            {
+                "name": "Jane Doe",
+                "ratings": 4.5,
+                "comment": "Love the design!"
+            }
+        ]
+    },
+    {
+        "name": "Levi's Jeans",
+        "price": 59,
+        "description": "A classic pair of Levi's jeans with a modern fit",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "yhfvxj6clxl6h8r",
+                "url": "https://res.cloudinary.com/sabah-siddiqui/image/upload/v1590587241/yhfvxj6clxl6h8r.jpg"
+            }
+        ],
+        "category": "clothing",
+        "seller": "Levi's",
+        "stock": 20,
+        "numOfReviews": 2,
+        "reviews": [
+            {
+                "name": "John Doe",
+                "ratings": 5,
+                "comment": "The fabric is amazing!"
+            },
+            {
+                "name": "Jane Doe",
+                "ratings": 4.5,
+                "comment": "Very comfortable!"
+            }
+        ]
+    },
+    {
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "price": 14.99,
+        "description": "The first book in J.K. Rowling's beloved Harry Potter series",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "xvhsgxm27fo2d3j",
+                "url": "https://res.cloudinary.com/sabah-siddiqui/image/upload/v1590587241/xvhsgxm27fo2d3j.jpg"
+            }
+        ],
+        "category": "books",
+        "seller": "Amazon",
+        "stock": 15,
+        "numOfReviews": 2,
+        "reviews": [
+            {
+                "name": "John Doe",
+                "ratings": 5,
+                "comment": "The most magical book ever written!"
+            },
+            {
+                "name": "Jane Doe",
+                "ratings": 4.5,
+                "comment": "An incredible story!"
+            }
+        ]
+    },
+    {
+        "name": "MacBook Pro",
+        "price": 1999,
+        "description": "The latest MacBook Pro with the latest technology",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "qnjuf2s2rtvmhno",
+                "url": "https://res.cloudinary.com/sabah-siddiqui/image/upload/v1590587241/qnjuf2s2rtvmhno.jpg"
+            }
+        ],
+        "category": "electronics",
+        "seller": "Apple",
+        "stock": 5,
+        "numOfReviews": 2,
+        "reviews": [
+            {
+                "name": "John Doe",
+                "ratings": 5,
+                "comment": "Great performance!"
+            },
+            {
+                "name": "Jane Doe",
+                "ratings": 4.5,
+                "comment": "The display is beautiful!"
+            }
+        ]
+    },
+    {
+        "name": "Leather Sofa",
+        "price": 799,
+        "description": "A luxurious leather sofa with a classic design",
+        "ratings": 4.6,
+        "images": [
+            {
+                "public_id": "jm6kcbrhvayuzxm",
+                "url": "https://res.cloudinary.com/sabah-siddiqui/image/upload/v1590587241/jm6kcbrhvayuzxm.jpg"
+            }
+        ],
+        "category": "furniture",
+        "seller": "IKEA",
+        "stock": 10,
+        "numOfReviews": 2,
+        "reviews": [
+            {
+                "name": "John Doe",
+                "ratings": 5,
+                "comment": "Very comfortable!"
+            },
+            {
+                "name": "Jane Doe",
+                "ratings": 4.5,
+                "comment": "The leather is great!"
+            }
+        ]
+    },
+    {
+        "name": "Adidas Sneakers",
+        "price": 79,
+        "description": "A classic pair of Adidas sneakers with a modern look",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "gbtesf6o9lj9cs1",
+                "url": "https://res.cloudinary.com/sabah-siddiqui/image/upload/v1590587241/gbtesf6o9lj9cs1.jpg"
+            }
+        ],
+        "category": "clothing",
+        "seller": "Adidas",
+        "stock": 20,
+        "numOfReviews": 2,
+        "reviews": [
+            {
+                "name": "John Doe",
+                "ratings": 5,
+                "comment": "The design is great!"
+            },
+            {
+                "name": "Jane Doe",
+                "ratings": 4.5,
+                "comment": "The fit is perfect!"
+            }
+        ]
+    },
+    {
+        "name": "The Great Gatsby",
+        "price": 12.99,
+        "description": "F. Scott Fitzgerald's classic novel about the American Dream",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "wvkjxh2uky6dezj",
+                "url": "https://res.cloudinary.com/sabah-siddiqui/image/upload/v1590587241/wvkjxh2uky6dezj.jpg"
+            }
+        ],
+        "category": "books",
+        "seller": "Amazon",
+        "stock": 15,
+        "numOfReviews": 2,
+        "reviews": [
+            {
+                "name": "John Doe",
+                "ratings": 5,
+                "comment": "A timeless classic!"
+            },
+            {
+                "name": "Jane Doe",
+                "ratings": 4.5,
+                "comment": "The characters are captivating!"
+            }
+        ]
+    },
+    {
+        "name": "Surround Sound System",
+        "price": 399,
+        "description": "A powerful surround sound system with crisp audio",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "g6kkvx6mzd6xr9h",
+                "url": "https://res.cloudinary.com/sabah-siddiqui/image/upload/v1590587241/g6kkvx6mzd6xr9h.jpg"
+            }
+        ],
+        "category": "electronics",
+        "seller": "Sony",
+        "stock": 5,
+        "numOfReviews": 2,
+        "reviews": [
+            {
+                "name": "John Doe",
+                "ratings": 5,
+                "comment": "The sound is amazing!"
+            },
+            {
+                "name": "Jane Doe",
+                "ratings": 4.5,
+                "comment": "Very powerful!"
+            }
+        ]
+    },
+    {
+        "name": "Queen Size Bed",
+        "price": 299,
+        "description": "A classic queen size bed made from solid wood",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "jxgcu6hfs7plu00",
+                "url": "https://res.cloudinary.com/sabah-siddiqui/image/upload/v1590587241/jxgcu6hfs7plu00.jpg"
+            }
+        ],
+        "category": "furniture",
+        "seller": "IKEA",
+        "stock": 10,
+        "numOfReviews": 2,
+        "reviews": [
+            {
+                "name": "John Doe",
+                "ratings": 5,
+                "comment": "Very sturdy!"
+            },
+            {
+                "name": "Jane Doe",
+                "ratings": 4.5,
+                "comment": "The finish is great!"
+            }
+        ]
+    }
+]

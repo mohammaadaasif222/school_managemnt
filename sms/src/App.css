@@ -1,0 +1,20 @@
+
+.sidebar-wrapper {
+  transition: width 0.3s;
+}
+
+.sidebar-header {
+  height: 64px;
+  display: flex;
+  background-color: #eab308;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 15px;
+  color: rgb(255, 255, 255);
+}
+
+
+.rotate {
+  transition: transform 0.5s ease-in-out;
+  transform: rotate(360deg);
+}
